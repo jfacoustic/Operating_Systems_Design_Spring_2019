@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+gcc time_reader.c -o time_reader
+./time_reader 
